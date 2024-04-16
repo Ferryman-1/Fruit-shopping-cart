@@ -5,5 +5,5 @@
 2. 删除功能: **点击传参** **filter**过滤覆盖原数组
 3. 修改个数：**点击传参** **find**找对象
 4. 全选反选：计算属性**computed** 完整写法 **get/set**
-5. 统计选中的总价和总数量: 计算属性**computed** **reduce**条件求和
+5. 统计**选中的**总价和总数量: 计算属性**computed** **reduce**条件求和
 6. 持久化到本地： **watch**监视，**localStorage**，**JSON.stringify**, **JSON.parse**
