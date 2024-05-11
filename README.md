@@ -7,5 +7,5 @@
 4. 全选反选：计算属性**computed** 完整写法 **get/set**
 5. 统计**选中的**总价和总数量: 计算属性**computed** **reduce**条件求和
 6. 持久化到本地： **watch**监视，**localStorage**，**JSON.stringify**, **JSON.parse**
-## 三、示意图
+## 三、示意图：
 [![fruit](https://img.17carat.cn/2024/04/github/fruit.png "fruit")](https://img.17carat.cn/2024/04/github/fruit.png "fruit")
