@@ -1,4 +1,4 @@
-# 一、Fruit-shopping-cart
+# 一、Fruit-shopping-cart：
 用vue语法实现的购物车删改查、全选反选、统计总数量和总价、存储本地浏览器等
 ## 二、业务技术点总结：
 1. 渲染功能： **v-if/v-else v-for :class**
